@@ -1,0 +1,4 @@
+Baixe o git
+https://git-scm.com/downloads
+
+O git bash é o terminal extendido para melhorar o uso do Git
